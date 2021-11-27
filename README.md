@@ -3,8 +3,11 @@
 ## Table of Contents
 * [Overview](#overview)
 * [System Requirements](#system-requirements)
-* [Repository Setup](#repository-setup)
-* [Testing and Running](#testing-and-running)
+* [Command Line Setup](#command-line-setup)
+* [IDE Setup](#command-line-setup)
+
+* [Unit Testing/Results](#unit-testing-and-results)
+* [TODOs](#todos)
 * [Authors](#authors)
 
 ## Overview
@@ -17,10 +20,18 @@
   * Placeholder for more specific information
 * Information
 
-## Repository Setup
+## Command Line Setup
 * Placeholder for information
   * Placeholder for more specific information
-## Testing and Running
+
+
+## IDE Setup
+* Placeholder for information
+
+## Unit Testing/Results
+* Placeholder for information
+
+## TODOs
 * Placeholder for information
 
 ## Authors

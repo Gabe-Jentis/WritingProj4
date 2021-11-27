@@ -2,10 +2,10 @@
 
 ## Table of Contents
 * [Overview](#overview)
-* [System Requirements](#system-requirements)
-* [Command Line Setup](#command-line-setup)
-* [IDE Setup](#command-line-setup)
-
+* [System Setup](#system-setup)
+    * [Linux Command Line Setup](#linux-command-line-setup)
+    * [Windows Command Line Setup](#windows-command-line-setup)
+    * [IDE Setup](#command-line-setup)
 * [Unit Testing/Results](#unit-testing-and-results)
 * [TODOs](#todos)
 * [Authors](#authors)
@@ -15,17 +15,35 @@
   * Placeholder for more specific information
 * Information
 
-## System Requirements
-* Placeholder for information
-  * Placeholder for more specific information
-* Information
+## System Setup
 
-## Command Line Setup
-* Placeholder for information
-  * Placeholder for more specific information
+### Linux Command Line Setup
+Run these commands in the terminal to install python3 and pip3 
+```
+sudo apt update
+sudo apt install python3.8
+sudo apt-get -y install python3-pip
+```
+Run these commands to install the required libraries via the terminal
+```
+pip3 install matplotlib
+pip3 install numpy
+```
 
+### Windows Command Line Setup
 
-## IDE Setup
+Download the most recent version of python from this website: https://www.python.org/downloads/ and run the following command in the command prompt/powershell to install pip
+```
+py -m pip install -U pip
+```
+
+Run the following commands in the comman prompt/powershell to install the required libraries
+```
+pip install matplotlib
+pip install numpy
+```
+
+### IDE Setup
 * Placeholder for information
 
 ## Unit Testing/Results

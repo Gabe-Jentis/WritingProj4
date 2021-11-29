@@ -19,6 +19,8 @@ The Project is a Readme for code written for a Machine Learning Project.
 
 The purpose of this code is to find the likelihood that a vehicle is at a position given measurements from reference points. The vehicle is generated to be somewhere random in the unit circle, with some user specified number of reference points on tht unit circle. The robot then takes a measurement to each measurement, which is done using Euclidean distance. These measurements also consist of some added Gaussian noise, which leads to some uncertainty around the robots position.
 
+Then, using Maximum a posteriori (MAP) estimation, The code assigns a value to each point in a grid surrounding the unit circle in which the vehicle is located. The lowest value on this grid is the most likely spot of the vehicle given the noisy measurements. The code displays this in terms of a contour plot, which has descending values as the true vehicle location is approached, while overlaying the true vehicle location and the reference points (see results for images).
+
 ## System Setup
 
 ### Linux Command Line Setup

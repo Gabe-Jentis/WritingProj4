@@ -28,6 +28,7 @@ Run these commands to install the required libraries via the terminal
 ```
 pip3 install matplotlib
 pip3 install numpy
+pip3 install argparse
 ```
 
 ### Windows Command Line Setup
@@ -40,6 +41,7 @@ py -m pip install -U pip
 Run the following commands in the comman prompt/powershell to install the required libraries
 ```
 pip install matplotlib
+pip install numpy
 pip install numpy
 ```
 

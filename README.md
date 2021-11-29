@@ -8,6 +8,9 @@ The Project is a Readme for code written for a Machine Learning Project.
     * [Linux Command Line Setup](#linux-command-line-setup)
     * [Windows Command Line Setup](#windows-command-line-setup)
     * [IDE Setup](#command-line-setup)
+* [Running](#running)
+    * [Command Line Running](#Command-Line-Running)
+    * [IDE Running](#IDE-Running)
 * [Unit Testing/Results](#unit-testing-and-results)
 * [TODOs](#todos)
 * [Authors](#authors)
@@ -46,6 +49,21 @@ pip install numpy
 
 ### IDE Setup
 * Placeholder for information
+
+## Running
+    
+### Command Line Running
+Run the followings commands from the base folder with the number references arguments you want in the command line of your system in order to cd into the folder with the script and to run the code. 
+```
+cd scripts
+python3 code.py -r $NUM_OF_REFS
+```
+If you are running on windows run these commands from the base folder of the repo in powershell/command prompt with these commands. 
+```
+cd scripts
+py code.py -r $NUM_OF_REFS
+```
+### IDE Running
 
 ## Unit Testing/Results
 * Placeholder for information

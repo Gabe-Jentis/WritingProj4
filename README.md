@@ -38,7 +38,7 @@ pip3 install numpy
 
 ### Windows Command Line Setup
 
-Download the most recent version of python from this website: https://www.python.org/downloads/ and run the following command in the command prompt/powershell to install pip
+Download and install the most recent version of python from this website: https://www.python.org/downloads/ and run the following command in the command prompt/powershell to install pip
 ```
 py -m pip install -U pip
 ```
@@ -50,7 +50,13 @@ pip install numpy
 ```
 
 ### IDE Setup
-* Placeholder for information
+
+Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
+
+TODO: Replace this stuff below with images
+```
+Settings -> Project Interpreter -> '+' Sign -> Search up matplotlib and numpy -> install
+```
 
 ## Running
     
@@ -74,9 +80,6 @@ py code.py -r $NUM_OF_REFS
 * Placeholder for information
 
 ## Authors
-* Gabe Jentis - Department of Electrical and Computer Engineering
-  * Placeholder for more specific information
-* Michael Shen - Department of Electrical and Computer Engineering
-  * Computer Engineering
-* Arbid Yusuf - Department of Electrical and Computer Engineering
-  * Placeholder for more specific information
+* Gabe Jentis - Northeastern University Department of Electrical and Computer Engineering
+* Michael Shen - Northeastern University Department of Electrical and Computer Engineering
+* Arbid Yusuf - Northeastern University Department of Electrical and Computer Engineering

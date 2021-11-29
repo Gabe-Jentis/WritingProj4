@@ -13,9 +13,8 @@ The Project is a Readme for code written for a Machine Learning Project.
 * [Authors](#authors)
 
 ## Overview
-* Placeholder for information
-  * Placeholder for more specific information
-* Information
+
+The purpose of this code is to find the likelihood that a vehicle is at a position given measurements from reference points. The vehicle is generated to be somewhere random in the unit circle, with some user specified number of reference points on tht unit circle. The robot then takes a measurement to each measurement, which is done using Euclidean distance. These measurements also consist of some added Gaussian noise, which leads to some uncertainty around the robots position.
 
 ## System Setup
 

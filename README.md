@@ -51,7 +51,7 @@ pip install numpy
 
 ### IDE Setup
 
-Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
+This setup is for the pycharm IDE and may vary across different IDEs. Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
 
 TODO: Replace this stuff below with images
 ```

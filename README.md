@@ -71,6 +71,11 @@ If you are running on windows run these commands from the base folder of the rep
 cd scripts
 py code.py -r $NUM_OF_REFS
 ```
+Replace $NUM_OF_REFS with the number of reference points as an integer that you would like to use. For example: 
+```
+python3 code.py -r 3
+```
+
 ### IDE Running
 
 ## Unit Testing/Results

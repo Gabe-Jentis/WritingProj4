@@ -75,7 +75,10 @@ Replace $NUM_OF_REFS with the number of reference points as an integer that you 
 ```
 python3 code.py -r 3
 ```
-
+or for windows
+```
+py code.py -r 3
+```
 ### IDE Running
 
 ## Unit Testing/Results

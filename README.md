@@ -13,7 +13,7 @@ The Project is a Readme for code written for a Machine Learning Project.
     * [IDE Running](#IDE-Running)
 * [Unit Testing/Results](#unit-testing-and-results)
     * [Unit Testing](#Unit-Testing)
-    * [Running](#Running)
+    * [Results](#Results)
 * [TODOs](#todos)
 * [Authors](#authors)
 

@@ -84,6 +84,8 @@ py code.py -r 3
 ## Unit Testing/Results
 ![alt text](./Images/Result1.PNG) 
 
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result1.PNG" width="200" height="200" />
+
 ## TODOs
 * Placeholder for information
 

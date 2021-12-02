@@ -55,7 +55,7 @@ This IDE setup is for the pycharm IDE and may vary across different IDEs.
 
 The first step is to click `file`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep1">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep1" width="whatever" height="whatever"/>
 </p>
 
 In the dropdown select `Settings` and in the settings click the `Project:WriteProj` and `Project Interpreter`. From there click the `+` button:

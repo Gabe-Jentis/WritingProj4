@@ -51,7 +51,7 @@ pip install numpy
 
 ### IDE Setup
 
-Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
+This setup is for the pycharm IDE and may vary across different IDEs. Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
 
 TODO: Replace this stuff below with images
 ```
@@ -70,6 +70,14 @@ If you are running on windows run these commands from the base folder of the rep
 ```
 cd scripts
 py code.py -r $NUM_OF_REFS
+```
+Replace $NUM_OF_REFS with the number of reference points as an integer that you would like to use. For example: 
+```
+python3 code.py -r 3
+```
+or for windows
+```
+py code.py -r 3
 ```
 ### IDE Running
 

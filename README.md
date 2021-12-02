@@ -55,22 +55,22 @@ This IDE setup is for the pycharm IDE and may vary across different IDEs.
 
 The first step is to click `file`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep1" width="whatever" height="whatever"/>
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep1" width="588" height="60"/>
 </p>
 
 In the dropdown select `Settings` and in the settings click the `Project:WriteProj` and `Project Interpreter`. From there click the `+` button:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep2-3">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep2-3" width="1245" height="889"/>
 </p>
 
 In the window that pops up, add the `numpy` and `matplotlib` packages and click `Install Package`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep4">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep4" width="1150" height="942"/>
 </p>
 
 Then Check to make sure the packages installed and click `Apply` and `Ok`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5" width="1240" height="890"/>
 </p>
 
 TODO: Replace this stuff below with images

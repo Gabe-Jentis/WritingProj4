@@ -99,7 +99,7 @@ py code.py -r 3
 ### IDE Running
 
 ## Unit Testing/Results
-### Unit Testing/Results
+### Unit Testing
 * See TODOs section
 ### Results
 <p align="center">

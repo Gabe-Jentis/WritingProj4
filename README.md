@@ -12,6 +12,8 @@ The Project is a Readme for code written for a Machine Learning Project.
     * [Command Line Running](#Command-Line-Running)
     * [IDE Running](#IDE-Running)
 * [Unit Testing/Results](#unit-testing-and-results)
+    * [Unit Testing](#Unit-Testing)
+    * [Running](#Running)
 * [TODOs](#todos)
 * [Authors](#authors)
 
@@ -97,6 +99,9 @@ py code.py -r 3
 ### IDE Running
 
 ## Unit Testing/Results
+### Unit Testing/Results
+* See TODOs section
+### Results
 <p align="center">
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result3.PNG" width="250" height="250" />
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result1.PNG" width="250" height="250" />
@@ -108,6 +113,7 @@ py code.py -r 3
 * Organize and structure code to make it easier to parse through
 * Create more functions to reduce redundancy and length of code
 * Clean up repo
+* Implement Unit Testing
 
 ## Authors
 * Gabe Jentis - Northeastern University Department of Electrical and Computer Engineering

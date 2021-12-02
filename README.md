@@ -104,7 +104,10 @@ py code.py -r 3
 </p>
    
 ## TODOs
-* Placeholder for information
+* Add comments to make code easier to understand
+* Organize and structure code to make it easier to parse through
+* Create more functions to reduce redundancy and length of code
+* Clean up repo
 
 ## Authors
 * Gabe Jentis - Northeastern University Department of Electrical and Computer Engineering

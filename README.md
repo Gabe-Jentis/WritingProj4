@@ -111,7 +111,7 @@ py code.py -r 3
 ## TODOs
 * Add comments to make code easier to understand
 * Organize and structure code to make it easier to parse through
-* Create more functions to reduce redundancy and length of code
+* Create function for plotting to reduce redundancy and length of code
 * Clean up repo
 * Implement Unit Testing
 

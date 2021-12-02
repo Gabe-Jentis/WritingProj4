@@ -12,6 +12,8 @@ The Project is a Readme for code written for a Machine Learning Project.
     * [Command Line Running](#Command-Line-Running)
     * [IDE Running](#IDE-Running)
 * [Unit Testing/Results](#unit-testing-and-results)
+    * [Unit Testing](#unit-testing)
+    * [Running](#running)
 * [TODOs](#todos)
 * [Authors](#authors)
 

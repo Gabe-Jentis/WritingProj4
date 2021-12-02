@@ -84,6 +84,8 @@ py code.py -r 3
 ## Unit Testing/Results
 <p align="center">
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result1.PNG" width="250" height="250" />
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result2.PNG" width="250" height="250" />
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result3.PNG" width="250" height="250" />
 </p>
    
 ## TODOs

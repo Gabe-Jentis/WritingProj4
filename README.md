@@ -60,17 +60,17 @@ The first step is to click `file`:
 
 In the dropdown select `Settings` and in the settings click the `Project:WriteProj` and `Project Interpreter`. From there click the `+` button:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep2-3.JPG" width="623" height="445"/>
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep2-3.JPG" width="779" height="556"/>
 </p>
 
 In the window that pops up, add the `numpy` and `matplotlib` packages and click `Install Package`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep4.JPG" width="575" height="481"/>
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep4.JPG" width="719" height="601"/>
 </p>
 
 Then Check to make sure the packages installed and click `Apply` and `Ok`:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5.JPG" width="620" height="445"/>
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5.JPG" width="775" height="556"/>
 </p>
 
 TODO: Replace this stuff below with images

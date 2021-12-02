@@ -82,7 +82,7 @@ py code.py -r 3
 ### IDE Running
 
 ## Unit Testing/Results
-![alt text](./Images/Result1.PNG)
+![alt text](./Images/Result1.PNG) {:height="50%" width="50%"}
 
 ## TODOs
 * Placeholder for information

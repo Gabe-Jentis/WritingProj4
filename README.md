@@ -82,7 +82,7 @@ py code.py -r 3
 ### IDE Running
 
 ## Unit Testing/Results
-![alt text](https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result1.png?raw=true)
+![alt text](src/Result1.png)
 
 ## TODOs
 * Placeholder for information

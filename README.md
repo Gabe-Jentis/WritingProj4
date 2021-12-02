@@ -73,11 +73,6 @@ Then Check to make sure the packages installed and click `Apply` and `Ok`:
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5.JPG" width="775" height="556"/>
 </p>
 
-TODO: Replace this stuff below with images
-```
-Settings -> Project Interpreter -> '+' Sign -> Search up matplotlib and numpy -> install
-```
-
 ## Running
     
 ### Command Line Running

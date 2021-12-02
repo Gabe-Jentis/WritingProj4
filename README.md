@@ -12,8 +12,6 @@ The Project is a Readme for code written for a Machine Learning Project.
     * [Command Line Running](#Command-Line-Running)
     * [IDE Running](#IDE-Running)
 * [Unit Testing/Results](#unit-testing-and-results)
-    * [Unit Testing](#unit-testing)
-    * [Running](#running)
 * [TODOs](#todos)
 * [Authors](#authors)
 
@@ -53,7 +51,27 @@ pip install numpy
 
 ### IDE Setup
 
-This setup is for the pycharm IDE and may vary across different IDEs. Download and install the most recent version of pycharm from this website: https://www.jetbrains.com/pycharm/download/#section=windows. After installing, open code.py through pycharm and install the required packages with the following steps.
+This IDE setup is for the pycharm IDE and may vary across different IDEs.
+
+The first step is to click `file`:
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep1" />
+</p>
+
+In the dropdown select `Settings` and in the settings click the `Project:WriteProj` and `Project Interpreter`. From there click the `+` button:
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep2-3" />
+</p>
+
+In the window that pops up, add the `numpy` and `matplotlib` packages and click `Install Package`:
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep4" />
+</p>
+
+Then Check to make sure the packages installed and click `Apply` and `Ok`:
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/idestep5" />
+</p>
 
 TODO: Replace this stuff below with images
 ```
@@ -84,8 +102,6 @@ py code.py -r 3
 ### IDE Running
 
 ## Unit Testing/Results
-### Unit Testing
-### Results
 <p align="center">
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result3.PNG" width="250" height="250" />
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result1.PNG" width="250" height="250" />
@@ -93,10 +109,7 @@ py code.py -r 3
 </p>
    
 ## TODOs
-* Add comments to make code easier to understand
-* Organize and structure code to make it easier to parse through
-* Create more function for plotting to reduce redundancy and length of code
-* Clean up repo
+* Placeholder for information
 
 ## Authors
 * Gabe Jentis - Northeastern University Department of Electrical and Computer Engineering

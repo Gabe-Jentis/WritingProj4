@@ -98,6 +98,27 @@ py code.py -r 3
 ```
 ### IDE Running
 
+These instructions are again for the PyCharm IDE.
+
+This first step is to set up the run configuration. First either click on the `Run` menu and choose `Edit Configurations` or Click on `Add Configuration` in the upper right:
+
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/ideRunStep1.JPG" width="960" height="41"/>
+</p>
+
+Then Click the `+` button and choose `Python`. Then choose a name for the Configuration. Then specify the file path to the script, which can be done by clicking the folder icon on the `Script path` entry and navigating to the location of the `code.py` file. Then input the Parameters by entering `-r $NUM_OF_REFS` where the number is the number of reference points, like 3 in the image shown below. Then click `OK` to save the configurations:
+
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/ideRunStep2.JPG" width="834" height="528"/>
+</p>
+
+Lastly to run the code either select the `Run` menu and choose `Run` or Click on the Green triangle icon in the upper right:
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/ideRunStep1.JPG" width="960" height="44"/>
+</p>
+
+These Run configurations can be edited by following these steps again.
+
 ## Unit Testing/Results
 ### Unit Testing
 * See TODOs section

@@ -114,7 +114,7 @@ Then Click the `+` button and choose `Python`. Then choose a name for the Config
 
 Lastly to run the code either select the `Run` menu and choose `Run` or Click on the Green triangle icon in the upper right:
 <p align="center">
-<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/ideRunStep1.JPG" width="960" height="44"/>
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/ideRunStep3.JPG" width="960" height="44"/>
 </p>
 
 These Run configurations can be edited by following these steps again.

@@ -129,7 +129,7 @@ These Run configurations can be edited by following these steps again.
 <img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Result2.PNG" width="250" height="250" />
 </p>
 
-These images show the co=ode becoming more confident on the true location of the vehicle. As the number on the inner ring decreases, and the plus sign representing the true vehicle location gets closer to the center of the innermost contour ring, the program is more confident on the true location of the vehicle based on the measurements to the reference points.
+These images show the code becoming more confident on the true location of the vehicle. As the number on the inner ring decreases, and the plus sign representing the true vehicle location gets closer to the center of the innermost contour ring, the program is more confident on the true location of the vehicle based on the measurements to the reference points.
    
 ## TODOs
 * __Add comments__ : Make the code easier to understand

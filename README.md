@@ -139,6 +139,6 @@ These images show the code becoming more confident on the true location of the v
 * __Implement Unit Testing__ : Needs implementation to ensure new updates to code do not break code
 
 ## Authors
-* Gabe Jentis - Northeastern University Department of Electrical and Computer Engineering
-* Michael Shen - Northeastern University Department of Electrical and Computer Engineering
-* Arbid Yusuf - Northeastern University Department of Electrical and Computer Engineering
+* __Gabe Jentis__ : Northeastern University Department of Electrical and Computer Engineering
+* __Michael Shen__ : Northeastern University Department of Electrical and Computer Engineering
+* __Arbid Yusuf__ : Northeastern University Department of Electrical and Computer Engineering

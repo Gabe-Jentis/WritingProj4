@@ -137,6 +137,7 @@ These images show the code becoming more confident on the true location of the v
 * __Plotting Function__ : Create function for plotting to reduce redundancy and length of code
 * __Clean up repo__ : Squash Commits and clean up history
 * __Implement Unit Testing__ : Needs implementation to ensure new updates to code do not break code
+* __Add More User Inputs__: Allow the user to input more arguments, whether about the vehicle location or reference point locations
 
 ## Authors
 * __Gabe Jentis__ : Northeastern University Department of Electrical and Computer Engineering

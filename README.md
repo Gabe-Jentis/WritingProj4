@@ -37,6 +37,11 @@ Run these commands to install the required libraries via the terminal
 pip3 install matplotlib
 pip3 install numpy
 ```
+Make sure git is installed on linux and clone the repository with these commands
+```
+sudo apt install git-all
+git clone https://github.com/Gabe-Jentis/WritingProj4.git
+```
 
 ### Windows Command Line Setup
 
@@ -49,6 +54,11 @@ Run the following commands in the comman prompt/powershell to install the requir
 ```
 pip install matplotlib
 pip install numpy
+```
+
+Make sure git is installed on windows by visiting this website: https://git-scm.com/download/win and clone the repository with the following command
+```
+git clone https://github.com/Gabe-Jentis/WritingProj4.git
 ```
 
 ### IDE Setup

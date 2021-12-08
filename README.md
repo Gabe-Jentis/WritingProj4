@@ -23,6 +23,11 @@ The purpose of this code is to find the likelihood that a vehicle is at a positi
 
 Then, using Maximum a posteriori (MAP) estimation, The code assigns a value to each point in a grid surrounding the unit circle in which the vehicle is located. The lowest value on this grid is the most likely spot of the vehicle given the noisy measurements. The code displays this in terms of a contour plot, which has descending values as the true vehicle location is approached, while overlaying the true vehicle location and the reference points (see results for images).
 
+<p align="center">
+<img src="https://github.com/Gabe-Jentis/WritingProj4/blob/main/Images/Equation.JPG"/>
+</p>
+
+
 ## System Setup
 
 ### Linux Command Line Setup
